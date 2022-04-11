@@ -1,0 +1,51 @@
+body {
+    height: 100%;
+    width: 100%; 
+}
+
+#container1 {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(255, 217, 238);
+}
+
+#header {
+    height: 100%;
+    width: 100%; 
+    background-color: #d864a6
+}
+
+#gambar {
+    height: 100%;
+    width: 100%;
+    background-color: #9775a1
+}
+
+#content-introduce {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 0.5%;
+    background-color: #5d6a88
+}
+
+#content-ability {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 0.5%;
+    background-color: #dd9cc1
+}
+
+#content-pendidikan {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 0.5%;
+    background-color: #99869e
+}
+
+#footer {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 0.5%;
+    background-color: #a1a8b6
+}
